@@ -1,8 +1,16 @@
 package calculadora;
 public class Calculadora {
-    // Constructor por defecto
+    /* constructor
+    int a;
+    int b;
+    public Calculadora(int a, int b) {
+        this.a = a;
+        this.b = b;
+
+    }
+*/
     public Calculadora() {
-        // No hace nada específico
+
     }
 
     public int sumar(int a, int b) {
